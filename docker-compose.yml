@@ -1,0 +1,30 @@
+version: '3.3'
+services:
+  mongo:
+    image: mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+      MONGO_INITDB_DATABASE: ProductCategories
+    ports:
+      - "11001:27017"
+    volumes:
+      - mongo-volume:/data/db
+  redis:
+   image: redis
+   ports:
+    - '11000:6379'
+  productCategories:
+   image: productcategories
+   ports:
+     - '11002:80'
+   environment:
+       'ASPNETCORE_ENVIRONMENT': 'Development'
+       'REDIS_CONNECTION': 'localhost:11000'
+       'MONGO_URI': 'mongodb://root:root@127.0.0.1:11001'
+       "MONGO_DB": 'Product'
+   depends_on:
+     - mongo
+     - redis
+volumes:
+  mongo-volume:

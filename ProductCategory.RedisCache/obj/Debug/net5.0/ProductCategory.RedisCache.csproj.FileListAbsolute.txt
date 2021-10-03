@@ -1,0 +1,12 @@
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\bin\Debug\net5.0\ProductCategory.RedisCache.deps.json
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\bin\Debug\net5.0\ProductCategory.RedisCache.dll
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\bin\Debug\net5.0\ref\ProductCategory.RedisCache.dll
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\bin\Debug\net5.0\ProductCategory.RedisCache.pdb
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\obj\Debug\net5.0\ProductCategory.RedisCache.csprojAssemblyReference.cache
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\obj\Debug\net5.0\ProductCategory.RedisCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\obj\Debug\net5.0\ProductCategory.RedisCache.AssemblyInfoInputs.cache
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\obj\Debug\net5.0\ProductCategory.RedisCache.AssemblyInfo.cs
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\obj\Debug\net5.0\ProductCategory.RedisCache.csproj.CoreCompileInputs.cache
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\obj\Debug\net5.0\ProductCategory.RedisCache.dll
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\obj\Debug\net5.0\ref\ProductCategory.RedisCache.dll
+C:\Users\Buket Burcu Mercan\Desktop\Burcu\ProductCategories\ProductCategory.RedisCache\obj\Debug\net5.0\ProductCategory.RedisCache.pdb

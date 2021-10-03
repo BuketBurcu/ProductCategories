@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>40b3e06c-022f-4a04-92b3-54806a9c3985</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductCategories.DataAccess\ProductCategories.DataAccess.csproj" />
+    <ProjectReference Include="..\ProductCategories.Data\ProductCategories.Data.csproj" />
+    <ProjectReference Include="..\ProductCategory.RedisCache\ProductCategory.RedisCache.csproj" />
+  </ItemGroup>
+
+</Project>
